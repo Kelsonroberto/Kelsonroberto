@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+linkedin: https://www.linkedin.com/in/kelson-roberto-18ab68230/
+
 <!--
 **Kelsonroberto/Kelsonroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
